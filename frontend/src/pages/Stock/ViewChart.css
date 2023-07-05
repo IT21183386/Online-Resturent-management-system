@@ -1,0 +1,50 @@
+.stock{
+    color: #282c34;
+    font-size: 40px;
+    position: absolute;
+    left: 34%;
+    top: 178px;
+}
+
+.wrapbutns{
+    width: 200px;
+    height: 250px;
+    top: 150px;
+    left: 60%;
+}
+.Sbtn1{
+    background-color: #61dafb;
+    width: 200px;
+    height: 33px;
+    position: relative;
+    left: 190%;
+    border-radius: 19px;
+    top: 132px;
+}
+.Sbtn2{
+    background-color: #61dafb;
+    width: 200px;
+    height: 33px;
+    position: relative;
+    left: 190%;
+    border-radius: 19px;
+    top: 197px;
+}
+.Sbtn3{
+    background-color: #61dafb;
+    width: 200px;
+    height: 33px;
+    position: relative;
+    left: 190%;
+    border-radius: 19px;
+    top: 270px;
+}
+.chart{
+    box-sizing: border-box;
+    display: block;
+    height: 456px;
+    width: 912px;
+    position: absolute;
+    top: 237px;
+    left: 103px;
+}

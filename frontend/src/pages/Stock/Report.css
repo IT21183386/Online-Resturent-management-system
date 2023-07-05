@@ -1,0 +1,83 @@
+.report{
+    color: black;
+    font-size: xx-large;
+    position: relative;
+    left: 674px;
+    top: 6px;
+    width: 300px;
+    height: 400px;
+    
+}
+
+
+.wrapbutns{
+    position: relative;
+    left: 400px;
+    bottom: 300px;
+    width: 200px;
+    height: 250px;
+}
+.Sbtn1{
+    background-color: #61dafb;
+    width: 138px;
+    height: 33px;
+    position: relative;
+    left: 432px;
+    border-radius: 19px;
+    top: -17px;
+}
+.Sbtn2{
+    background-color: #61dafb;
+    width: 138px;
+    height: 33px;
+    position: relative;
+    left: 693px;
+    border-radius: 19px;
+    top: -51px;
+}
+.Sbtn3{
+    background-color: #61dafb;
+    width: 138px;
+    height: 33px;
+    position: relative;
+    left: 921px;
+    border-radius: 19px;
+    top: -84px;
+}
+.table{
+    width: 700px;
+    height: 600px;
+    
+    background-size: 30px;
+    border-color: black;
+    top: 50px;
+    left: 250px;
+  
+   
+}
+table{
+    border: 1px;
+}
+table{
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+td {
+    border-right: 1px solid black;
+  }
+    
+
+
+.Share{
+    width: 95px;
+    height: -1px;
+    position: relative;
+    top: 31px;
+    left: 593px;
+    background-color: #ff0000;
+}
+
+.drop{
+    width: 400px;
+    height: 350px;
+}
